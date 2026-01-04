@@ -120,3 +120,29 @@ This project is open source and available under the MIT License.
 
 Contributions, issues, and feature requests are welcome!
 
+## 📸 Screenshots
+![blog1](https://github.com/user-attachments/assets/ee41dcc0-bc31-4f8d-afca-3616e8686468)
+![blog2](https://github.com/user-attachments/assets/a64126a5-7a1d-4582-8574-cd8eea708e41)
+![blog3](https://github.com/user-attachments/assets/977b7295-6d94-4e1d-b535-cfd59e3d74e4)
+![blog4](https://github.com/user-attachments/assets/aa9d36ea-0f78-48fb-8df4-1f42107dc116)
+![blog5](https://github.com/user-attachments/assets/715eb042-f56a-4623-b55a-4a65a3ba0580)
+![blog6](https://github.com/user-attachments/assets/9a4323de-468b-43ed-b503-b3ab618fc9fe)
+![blog7](https://github.com/user-attachments/assets/d52d4325-ce55-4907-a7b0-bf02611aa187)
+![blog8](https://github.com/user-attachments/assets/23249459-40d4-47c8-90b8-9eb2fbfec3a6)
+![blog9](https://github.com/user-attachments/assets/f992f17b-8997-4a23-9f31-49a5c263b700)
+![blog10](https://github.com/user-attachments/assets/29e84c75-df99-45e4-bbf5-a365c5ee9032)
+![blog11](https://github.com/user-attachments/assets/4fbde076-5cf7-48dd-a80b-b8bb85ff90ac)
+
+
+---
+
+## 🧠 What I Learned
+- Full-stack application architecture
+- REST API design and integration
+- MongoDB schema modeling
+- Authentication & authorization using JWT
+- React component structure and state management
+- Handling real-world CRUD operations
+
+---
+
