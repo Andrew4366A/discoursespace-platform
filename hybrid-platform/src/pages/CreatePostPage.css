@@ -1,0 +1,80 @@
+.create-container {
+  width: 90%;
+  max-width: 900px;
+  margin: auto;
+  padding: 30px;
+}
+
+.create-title {
+  font-size: 32px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.create-tabs {
+  display: flex;
+  background: #f8f8f8;
+  border-radius: 8px;
+  overflow: hidden;
+  margin-bottom: 25px;
+}
+
+.create-tabs button {
+  flex: 1;
+  padding: 12px;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  font-size: 15px;
+  color: #555;
+  transition: 0.2s;
+}
+
+.create-tabs button.active {
+  background: white;
+  color: black;
+  border-bottom: 3px solid #a855f7;
+  font-weight: 600;
+}
+
+.form-section {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.label {
+  font-weight: 600;
+  margin-top: 8px;
+}
+
+.input,
+.textarea,
+select.input {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 15px;
+}
+
+.textarea {
+  resize: vertical;
+}
+
+.submit-btn {
+  margin-top: 20px;
+  padding: 14px;
+  background: linear-gradient(to right, #6a5cff, #b84bff);
+  border: none;
+  border-radius: 8px;
+  color: white;
+  font-size: 17px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.submit-btn:hover {
+  opacity: 0.9;
+}

@@ -1,0 +1,32 @@
+.bg-test {
+  position: fixed;
+  inset: 0;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  z-index: -9999; /* Very behind everything */
+  pointer-events: none;
+  background: #f1efef; /* TEMP to test visibility */
+}
+
+/* BIG glowing balls */
+.ball {
+  position: absolute;
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  background: radial-gradient(circle, #d2c3d6, rgba(243, 237, 237, 0));
+  filter: blur(10px);
+  opacity: 0.9;
+  animation: float 5s ease-in-out infinite;
+}
+
+@keyframes float {
+  0% { transform: translateY(0); }
+  50% { transform: translateY(-100px); }
+  100% { transform: translateY(0); }
+}
+
+.t1 { top: 20%; left: 10%; animation-duration: 6s; }
+.t2 { top: 50%; left: 40%; animation-duration: 7s; }
+.t3 { top: 70%; left: 75%; animation-duration: 8s; }
